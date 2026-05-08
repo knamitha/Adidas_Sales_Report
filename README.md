@@ -85,4 +85,4 @@ Users can filter data by region, product, retailer, and sales method to analyze 
 - Tableau Official Documentation
 
 ## Author
-Namitha Kornenghattil
+Namitha Kornengattil
